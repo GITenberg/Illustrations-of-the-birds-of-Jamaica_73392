@@ -1,5 +1,8 @@
 _repo: Illustrations-of-the-birds-of-Jamaica_73392
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73392-h/images/cover.jpg
 creator:
   author:
     agent_name: Gosse, Philip Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36052
     wikipedia: https://en.wikipedia.org/wiki/Philip_Henry_Gosse
 description: 'To accompany: The birds of Jamaica. See #73391.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73392#Illustrations-of-the-birds-of-Jamaica
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
